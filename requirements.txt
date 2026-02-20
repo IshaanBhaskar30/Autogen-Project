@@ -1,0 +1,17 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+asyncio
+dotenv
+openai
+tiktoken
+autogenstudio
+streamlit
+arxiv
+ipykernel
+autogen-ext[ollama]
+autogen-ext[langchain]
+autogen-ext[Gemini]
+autogen-ext[Groq]
+groq
+nest_asyncio
